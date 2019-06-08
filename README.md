@@ -19,7 +19,7 @@ koolreport
 ## By composer
 
 ```
-composer require koolreport\bootstrap4
+composer require koolreport/bootstrap4
 ```
 
 # Usage
